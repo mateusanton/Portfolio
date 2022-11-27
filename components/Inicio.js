@@ -1,4 +1,4 @@
-import { AiFillLinkedin, AiFillGithub } from 'react-icons/Ai'
+import { AiFillLinkedin, AiFillGithub } from 'react-icons/ai'
 import Image from 'next/image'
 import mateus from '../public/mateus.png'
 
