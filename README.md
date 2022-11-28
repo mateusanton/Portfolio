@@ -39,5 +39,3 @@
     </td>
   </tr>
 </table>
-
-<h2>:dollar: Licença</h2>
