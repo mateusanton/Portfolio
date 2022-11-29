@@ -1,4 +1,4 @@
-import { BiArrowToTop } from 'react-icons/Bi'
+import { BiArrowToTop } from 'react-icons/bi'
 
 export const Footer = () => {
   return (
